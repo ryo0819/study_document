@@ -6,9 +6,9 @@
 
 # [Cloud Dataproc](Dataproc.md)
 
-# [Cloud Pub/Sub](PubSub.md)
+# [Cloud Pub/Sub](pubsub.md)
 
-# [Cloud Bigtable](BigTable.md)
+# [Cloud Bigtable](Bigtable.md)
 
 # [Cloud Composer](Composer.md)
 
